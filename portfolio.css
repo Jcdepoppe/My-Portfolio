@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: auto;
+    background-color: aliceblue;
+}
+#mainbox{
+    background-color: lightgray;
+    outline: 8px 8px solid maroon;
+    width: 450px;
+    padding: 5px;
+    display: inline-block;
+}
+#mainimg{
+    width: 400px;
+}
+p{
+    display: inline-block;
+}
+a{
+    margin-right: 100px;
+}
+#sidebar{
+    background-color: lightgray;
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+.sidebox{
+    background-color: darkblue;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.secondaryimg{
+    width: 280px;
+    margin-left: 10px;
+}
